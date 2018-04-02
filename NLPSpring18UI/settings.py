@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'vb9#wlwmds9l%m9^_*_21!r+z2u36zry#bee#=s=8do(1qc9fr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1', 'nlp-spring18-ui.herokuapp.com']
 
